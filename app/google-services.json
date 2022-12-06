@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "126124625282",
+    "firebase_url": "https://carepat-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "carepat",
+    "storage_bucket": "carepat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126124625282:android:3f7d49bf5f26cbc03b939b",
+        "android_client_info": {
+          "package_name": "com.example.carepat1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126124625282-1gsdm0l9qthi4fdfc0l5fo5ksnig787f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5igjOrc4Wgq51DxIkPrQUYMT9kfd-StM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126124625282-1gsdm0l9qthi4fdfc0l5fo5ksnig787f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
